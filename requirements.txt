@@ -1,3 +1,5 @@
 flask
 flask-restplus
 pyserial
+psutil
+wmi
